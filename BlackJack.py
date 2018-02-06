@@ -243,4 +243,5 @@ elif answer == "いいえ":
     disp("enemy",enemy_cards)
 
 print("お疲れさまでした、またのご利用お待ちしております。")
+time.sleep(8)
 
