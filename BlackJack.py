@@ -112,6 +112,7 @@ if enemy_sum_score > 21:
 
 disp("my", my_cards)
 disp("enemy",enemy_cards)
+print("['s-A', 11]は「スペード」の「A」でスコア「11」という意味\n")
 
 # 追加で引くか選択し、勝敗を出力する
 
